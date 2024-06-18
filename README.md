@@ -1,3 +1,0 @@
-# NiceDiary.github.io
-
-Hello!
